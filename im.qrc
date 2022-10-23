@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/row">
+        <file>images/figure_1.png</file>
+        <file>images/figure_2.png</file>
+        <file>images/figure_3.png</file>
+        <file>images/figure_4.png</file>
+        <file>images/figure_5.png</file>
+        <file>images/clothes_1.png</file>
+        <file>images/clothes_2.png</file>
+        <file>images/clothes_3.png</file>
+        <file>images/clothes_4.png</file>
+        <file>images/clothes_5.png</file>
+        <file>images/food_1.png</file>
+        <file>images/food_2.png</file>
+        <file>images/food_3.png</file>
+        <file>images/food_4.png</file>
+        <file>images/food_5.png</file>
+        <file>images/transport_1.png</file>
+        <file>images/transport_2.png</file>
+        <file>images/transport_3.png</file>
+    </qresource>
+</RCC>
